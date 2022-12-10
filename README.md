@@ -1,2 +1,3 @@
-# neovim-settings
-Neovim configurations
+#Neovim Settings
+
+Neovim settings.
